@@ -11,9 +11,13 @@ Let's discuss a few definitions related to time series first.
 Definitions
 
 Level: Level is the average of the values of the series.
+
 Trend: Trend shows a pattern in the data. For example, whether the stock prices are increasing with time(uptrend) or are they decreasing with time(downtrend) or time doesn't have that much effect on the prices(Horizontal trend)
+
 Seasonality: When the data shows a repetative pattern for over an year, it can be termed as seasonal pattern. For example, the sale of airconditioners will increase every year during summer and the sale will decrease during winter.
+
 Cyclic Patterns: These are the repetative patterns shown over a longer period of time(more than one year). For example, after every five year the share market has some fluctuations due to the general elections.
+
 Noise: The variations which do not show any pattern.
 
 
