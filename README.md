@@ -24,6 +24,9 @@ Let's say that we have a problem at hand where we have been asked to predict the
 Old Methods
 
 Using Average: You might give the prediction as the average of all the prevous values.
+
 Using Moving Average: This is the average of the previous values over a fixed period. For example you might predict the sales in November based on the average of past 3 months. The past three months will be August, September and October. If you are predicting the sales for December, the past three months will be September, October and November. Although the number of months considered are same but the window moved from one set of months to another. Hence the name Moving Average.
+
 Using the Naive Method: The Naive method says that the prediction will be same as the last figure. For example, the prediction for November will be the sales for October.
+
 Using the Seasonal Naive Method: Seasonal naive method is similar to naive method. Here, the new prediction is equal to the sales for the previous season.
